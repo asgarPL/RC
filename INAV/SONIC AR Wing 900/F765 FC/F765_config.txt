@@ -216,6 +216,8 @@ set osd_sidebar_scroll_arrows = ON
 set i2c_speed = 800KHZ
 set tz_offset = 120
 set tz_automatic_dst = EU
+set vtx_band = 4
+set vtx_channel = 1
 set vtx_power = 3
 set vtx_low_power_disarm = UNTIL_FIRST_ARM
 
